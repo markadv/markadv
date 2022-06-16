@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markadv
 - 👀 I’m interested in ...gaming. web devlopment. and engineering softwares
-- 🌱 I’m currently learning ... Unity and C#
+- 🌱 I’m currently learning ... algorithms.
 - 💞️ I’m looking to collaborate on ...webdev. games
 - 📫 How to reach me ...mark.timothy.advento@gmail.com
 
